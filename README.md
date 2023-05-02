@@ -24,7 +24,7 @@
 <table style="border:1px solid white;margin-left:auto;;margin-right:auto;width:100%;height:750px;">
     <thead>
         <tr>
-        <th colspan="10" style="text-align: center;border:1px solid white;">Programming Languages</th>
+        <th colspan="5" >Programming Languages</th>
         </tr>
     </thead>
     <tr>
