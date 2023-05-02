@@ -123,15 +123,5 @@
     </thead>
         <td>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">DJango <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a></td>
-     <thead>
-        <tr>
-        <th colspan="10" >Software</th>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">Photoshop <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </td>
-        <td>
-        <a href="https://www.blender.org/" target="_blank" rel="noreferrer">Blender <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a></td>
-    <tr>
+    
 </table>
