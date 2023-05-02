@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronmancera&label=Profile%20views&color=0e75b6&style=flat" alt="aaronmancera" /> </p>
 <h3>About me:</h3>
 <p align="justify">I'm a <strong>cross-platform</strong> developer for markup language, android and computer languages. I have experience in differente indi project, cooperation with other small programmer and in <strong>Procisa</strong>.</br> Interested in making <strong>life easier</strong> and <strong>funneable</strong> with my creations.Passionate about technology, art, music, Japanese culture and video games.</p>
-<table style="width:100%;border:none">
+<table>
 <tr>
 <td><img align="center" style="width:100%" src="https://github-readme-stats.vercel.app/api?username=aaronmancera&show_icons=true&locale=en" alt="aaronmancera" /> </td>
 <td><img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronmancera&" alt="aaronmancera" /></td>
