@@ -22,7 +22,7 @@
 <p align="left">Try it in this moment in <a href="https://github.com/AaronMancera">Github <sup><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AaronMancera" height="10" width="10" /></a></sup></a> or <a href="https://linkedin.com/in/aarón-mancera-7a61bb273" target="blank">Linkedin <sup><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarón-mancera-7a61bb273" height="10" width="10" /></a></sup></p>
 <p align="left">
 <h3 align="left">Knowledge of languages and tools:</h3>
-<table style="border:1px solid white;margin-left:auto;;margin-right:auto;width:100%">
+<table style="border:1px solid white;margin-left:auto;;margin-right:auto;width:100%;height:100%;">
     <thead>
         <tr>
         <th colspan="10" style="text-align: center;border:1px solid white;">Programming Languages</th>
