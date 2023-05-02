@@ -21,7 +21,7 @@
 <p align="left">Try it in this moment in <a href="https://github.com/AaronMancera">Github <sup><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AaronMancera" height="10" width="10" /></a></sup></a> or <a href="https://linkedin.com/in/aarón-mancera-7a61bb273" target="blank">Linkedin <sup><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarón-mancera-7a61bb273" height="10" width="10" /></a></sup></p>
 <p align="left">
 <h3 align="left">Knowledge of languages and tools:</h3>
-<table style="border:1px solid white;margin-left:auto;;margin-right:auto;width:100%;height:750px;">
+<table>
     <thead>
         <tr>
         <th colspan="5" >Programming Languages</th>
@@ -41,7 +41,7 @@
     <tr>
     <thead>
         <tr>
-        <th colspan="10" style="text-align: center;border:1px solid white;">Mobile App Development</th>
+        <th colspan="10" >Mobile App Development</th>
         </tr>
     </thead>
     <tr>
@@ -56,7 +56,7 @@
     <tr>
     <thead>
         <tr>
-        <th colspan="10" style="text-align: center;border:1px solid white;">Game Engines</th>
+        <th colspan="10" >Game Engines</th>
         </tr>
     </thead>
     <tr>
@@ -65,7 +65,7 @@
     <tr>
     <thead>
         <tr>
-        <th colspan="10" style="text-align: center;border:1px solid white;">Backend as a Service(BaaS)</th>
+        <th colspan="10" >Backend as a Service(BaaS)</th>
         </tr>
     </thead>
     <tr>
@@ -74,7 +74,7 @@
     <tr>
      <thead>
         <tr>
-        <th colspan="10" style="text-align: center;border:1px solid white;">Database</th>
+        <th colspan="10" >Database</th>
         </tr>
     </thead>
     <tr>
@@ -87,7 +87,7 @@
     <tr>
      <thead>
         <tr>
-        <th colspan="10" style="text-align: center;border:1px solid white;">Frontend Development</th>
+        <th colspan="10" >Frontend Development</th>
         </tr>
     </thead>
     <tr>
@@ -102,7 +102,7 @@
     <tr>
      <thead>
         <tr>
-        <th colspan="10" style="text-align: center;border:1px solid white;">Backend Development</th>
+        <th colspan="10" >Backend Development</th>
         </tr>
     </thead>
     <tr>
@@ -111,21 +111,21 @@
     <tr>
      <thead>
         <tr>
-        <th colspan="10" style="text-align: center;border:1px solid white;">Devops</th>
+        <th colspan="10" >Devops</th>
         </tr>
     </thead>
         <td>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </td>
      <thead>
         <tr>
-        <th colspan="10" style="text-align: center;border:1px solid white;">Framework</th>
+        <th colspan="10" >Framework</th>
         </tr>
     </thead>
         <td>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">DJango <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a></td>
      <thead>
         <tr>
-        <th colspan="10" style="text-align: center;border:1px solid white;">Software</th>
+        <th colspan="10" >Software</th>
         </tr>
     </thead>
     <tr>
