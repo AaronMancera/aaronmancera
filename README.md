@@ -2,7 +2,7 @@
 <h2 align="center"><em>A little semicolon in a python code</em></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronmancera&label=Profile%20views&color=0e75b6&style=flat" alt="aaronmancera" /> </p>
 <h3>About me:</h3>
-<p align="justify">I'm a <strong>cross-platform</strong> developer for markup language, android and computer languages. I have experience in differente indi project, cooperation with other small programmer and in <strong>Procisa</strong>.</br> Interested in making <strong>life easier</strong> and <strong>funneable</strong> with my creations. Passionate about technology, art, music, culture and video games.</p>
+<p align="justify">I'm a <strong>cross-platform</strong> developer for markup language, android and computer languages. I have experience in differente indi project, cooperation with other small programmer and working in <strong>Procisa</strong>.</br> Interested in making <strong>life easier</strong> and <strong>funneable</strong> with my creations. Passionate about technology, art, music, culture and video games.</p>
 <p>
 <img align="center" style="width:100%" src="https://github-readme-stats.vercel.app/api?username=aaronmancera&show_icons=true&locale=en" alt="aaronmancera" /> 
 <img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronmancera&" alt="aaronmancera" />
@@ -13,7 +13,9 @@
 <ul>
 <li>A <strong>2d Unity Game</strong> for Android and Windows with Firebase, <a href="https://github.com/AaronMancera/Rhythm_Cube">Rhythm Cube<a> <sup><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> </a><sup>
 </li>
-<li>Working in <strong>Procisa</strong><sup> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a></sup>
+<li>Try to do a <strong><a href="https://www.juntadeandalucia.es/educacion/portals/web/formacion-profesional-andaluza/fp-grado-medio/detalle-titulo?idTitulo=1321">Specialization course in Video Game Development and Virtual Reality</a></strong>
+</li>
+<li>Learn how to make mods for <strong><a href="https://www.residentevil.com/re4/es/">Resident Evil 4 Remake</a></strong>
 </li>
 </ul>
 
@@ -66,6 +68,15 @@
         <a href="https://unity.com/" target="_blank" rel="noreferrer">Unity <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p></td>
     </tr>
     <thead>
+     <tr>
+        <th colspan="10" >Modeling</th>
+        </tr>
+    </thead>
+     <tr>
+        <td>
+        <a href="https://www.blender.org/" target="_blank" rel="noreferrer">DJango <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a></td>   
+    </tr> 
+    <thead>
         <tr>
         <th colspan="10" >Backend as a Service(BaaS)</th>
         </tr>
@@ -111,4 +122,6 @@
         <td>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">DJango <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a></td>   
     </tr> 
+    
+
 </table>
