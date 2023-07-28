@@ -8,12 +8,18 @@
 <img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronmancera&" alt="aaronmancera" />
 </p>
 </table>
-<h3>What am I working?</h3>
-<p>In this moment:</p>
+<h3>My TFG:</h3>
 <ul>
 <li>A <strong>2d Unity Game</strong> for Android and Windows with Firebase, <a href="https://github.com/AaronMancera/Rhythm_Cube">Rhythm Cube<a> <sup><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> </a><sup>
 </li>
+</ul>
+<h3>What am I working?</h3>
+<p>In this moment:</p>
+<ul>
 <li>Try to do a <strong><a href="https://www.juntadeandalucia.es/educacion/portals/web/formacion-profesional-andaluza/fp-grado-medio/detalle-titulo?idTitulo=1321">Specialization course in Video Game Development and Virtual Reality</a></strong>
+</li>
+<li>I am making an indie videogame named "Escaping the glory hole"
+<sup><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a><sup>
 </li>
 <li>Learn how to make mods for <strong><a href="https://www.residentevil.com/re4/es/">Resident Evil 4 Remake</a></strong>
 </li>
