@@ -19,7 +19,7 @@
 <li>Try to do a <strong><a href="https://www.juntadeandalucia.es/educacion/portals/web/formacion-profesional-andaluza/fp-grado-medio/detalle-titulo?idTitulo=1321">Specialization course in Video Game Development and Virtual Reality</a></strong>
 </li>
 <li>I am making an indie videogame named "Escaping the glory hole"
-<sup><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a><sup>
+
 </ul>
 
 <h3 align="left">Do you want to contact me?</h3>
