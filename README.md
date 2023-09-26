@@ -20,9 +20,6 @@
 </li>
 <li>I am making an indie videogame named "Escaping the glory hole"
 <sup><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a><sup>
-</li>
-<li>Learn how to make mods for <strong><a href="https://www.residentevil.com/re4/es/">Resident Evil 4 Remake</a></strong>
-</li>
 </ul>
 
 <h3 align="left">Do you want to contact me?</h3>
