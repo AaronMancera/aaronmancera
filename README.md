@@ -19,6 +19,7 @@
 <li>Try to do a <strong><a href="https://www.juntadeandalucia.es/educacion/portals/web/formacion-profesional-andaluza/fp-grado-medio/detalle-titulo?idTitulo=1321">Specialization course in Video Game Development and Virtual Reality</a></strong>
 </li>
 <li>I am making an indie videogame named "Escaping the glory hole"
+</li>
 
 </ul>
 
