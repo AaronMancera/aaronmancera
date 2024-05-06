@@ -283,7 +283,7 @@ Español
         </tr>
     <thead>
         <tr>
-        <th colspan="10" >Base de dato</th>
+        <th colspan="10" >Base de datos</th>
         </tr>
     </thead>
         <tr>            
