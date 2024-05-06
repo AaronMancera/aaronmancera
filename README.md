@@ -236,7 +236,7 @@ Español
         </tr>
     <thead>
         <tr>
-        <th colspan="10" >Desarrollo mobil</th>
+        <th colspan="10" >Desarrollo movil</th>
         </tr>
     </thead>
         <tr>
