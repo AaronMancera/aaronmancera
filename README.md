@@ -17,7 +17,7 @@ Ingles
 </br>
 <ul>
     <li>I was working in <a href="https://github.com/claramesa/venus">Venus</a>, in the backend with Django (Python) in the part about authorization and data base.</li>
-    <li>I was making a indie game,<a href=""> Trash And Play</a>.
+    <li>I was making a indie game,<a href=""> Trash The Play</a>.
     </br>It's in continuous development and I'm head of programming's department, coding and organizing the other workers, and organizing the communication  with others departments.</li>
 </ul>
 </br>
@@ -174,7 +174,7 @@ Español
 </br>
 <ul>
     <li>Estuve trabajando en <a href="https://github.com/claramesa/venus">Venus</a>, en la parte de backed con Django (Python) en la parte de autenticación y base de datos.</li>
-    <li>Estuve creando un juego indi,<a href=""> Trash And Play</a>.
+    <li>Estuve creando un juego indi,<a href=""> Trash The Play</a>.
     </br>Sigue en su continuo desarrollo y me encargue del departamento de progranacion, codificando y organizando al resto del equipo, y organizado la comunicacion con los otros departamentos.</li>
 </ul>
 </br>
