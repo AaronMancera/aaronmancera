@@ -11,7 +11,7 @@ Ingles
 <h3>About me:</h3>
 <p>I am a lover of cats and video games. Of course, I'm not against different sports like basketball, soccer, handball and volleyball, but training them makes me too tired.</p>
 <p>In the social section, I am a calm person who seems serious. Currently I am blessed to have a good relationship with my family, and a good and healthy group of friends. AFurthermore, in the teams I have worked on (company or developer collaboration), I didn't have any problems when I had a problem with the code or when I helped someone with ideas or with their code.</p>
-<p>My specialties are <strong>cross-platform</strong> development,, Adroid y Pc, and <strong>videogames</strong> Although I also have practice in modeling, sound, web design and databases.</p>
+<p>My specialties are <strong>cross-platform</strong> development, Android y Pc, and <strong>videogames</strong> Although I also have practice in modeling, sound, web design and databases.</p>
 <p>I have experience in different individual projects, which you can see in my public repositories, and the cooperation with others, such as:</p>
 
 </br>
@@ -168,7 +168,7 @@ Español
 <h3>Sobre mi:</h3>
 <p>Soy un amante de lo gatos y de los videojuegos. Por supuesto, no estoy en contra de los diferentes deportes como el baloncesto, futbol, balonmano y voley, pero entrenarlos me cansan demasiado.</p>
 <p>En el apartado social, soy un persona calmada y que parece serio. Actualmente estoy bendecido de tener un buen trato con mi familia, y un bueno y sano grupo de amigos. Además, en los equipos que he trabajado (empresa o colaboración de desarrolladores), no he tenido ningún problema ninguno, ni cuando he tenido un problema en el código, ni cuando he ayudado con ideas o a alguien en su código.</p>
-<p>Mis especialidades son el desarrollo <strong>multiplataformas</strong>, Adroid y Pc, y el desarrollo de <strong>videojuegos</strong>. Aunque también tengo práctica en el modelaje, sonido, diseño web y bases de datos.</p>
+<p>Mis especialidades son el desarrollo <strong>multiplataformas</strong>, Android y Pc, y el desarrollo de <strong>videojuegos</strong>. Aunque también tengo práctica en el modelaje, sonido, diseño web y bases de datos.</p>
 <p>Tengo experiencia en diferentes proyectos individuales, ques puedes verlos en mis respositorios públicos, y el cooperacion con otros programadores, como por ejemplo:</p>
 
 </br>
