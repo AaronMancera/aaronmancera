@@ -167,7 +167,7 @@ Español
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronmancera&label=Profile%20views&color=0e75b6&style=flat" alt="aaronmancera" /> </p>
 <h3>Sobre mi:</h3>
 <p>Soy un amante de lo gatos y de los videojuegos. Por supuesto, no estoy en contra de los diferentes deportes como el baloncesto, futbol, balonmano y vóley, pero entrenarlos me cansan demasiado.</p>
-<p>En el apartado social, soy un persona calmada y que parece muy serio. A Sin embargo, en el entorno laboral soy muy buen compañero, que no le importa retrasarse un poco para ayudar a un compañero en apuros.</p>
+<p>En el apartado social, soy un persona calmada y que parece muy serio. Sin embargo, en el entorno laboral soy muy buen compañero, que no le importa retrasarse un poco para ayudar a un compañero en apuros.</p>
 <p>Mis especialidades son el desarrollo <strong>multiplataformas</strong>, Android y Pc, y el desarrollo de <strong>videojuegos</strong>. Aunque también tengo práctica en el modelaje, sonido, diseño web y bases de datos.</p>
 <p>Tengo experiencia en diferentes proyectos individuales, que puedes verlos en mis respositorios públicos, y el cooperacion con otros programadores, como por ejemplo:</p>
 
